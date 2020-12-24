@@ -24,7 +24,7 @@ page_sections:
     book that test.
   media:
     image: "/uploads/2020/12/24/car-home.png"
-    alt_text: ''
+    alt_text: car home
   slug: ''
 - template: content-feature
   block: feature-1
