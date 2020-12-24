@@ -56,16 +56,13 @@ page_sections:
     <strong>we can help you do the same</strong> for your product or business. <a
     href="mailto:hello@dripl.co.uk">Please reach out</a> and we will be happy to discuss
     if we can help you and how.</p>
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2020/12/24/logo-1.png"
-- template: signup-bar
-  block: cta-bar
-  content: We are building Dripl in public. If you want to stay up to date with our
-    progress, <strong>please subscribe</strong>.
-  email_recipient: hello@dripl.co.uk
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by Dripl
+- template: signup-bar
+  block: cta-bar
+  content: We are building Dripl in public. If you want to stay up to date with our
+    progress,<span class="Apple-converted-space"> </span><strong>please subscribe</strong>.
+  email_recipient: ''
 
 ---
