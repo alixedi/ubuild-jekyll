@@ -5,7 +5,7 @@ date: 2020-12-24 00:00:00 +0000
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
-  background_image: ''
+  background_image: "/uploads/2020/12/24/car-icon.png"
   image:
     image: "/uploads/2020/12/24/car-home.png"
     alt_text: car-home
