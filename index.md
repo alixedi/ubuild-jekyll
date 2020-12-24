@@ -36,13 +36,16 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  slug: unstartup
+  headline: "<strong>Un-startup</strong>"
+  content: <strong>5 out of the top 20</strong><span class="Apple-converted-space">
+    </span>best-selling apps on the App Store are for test-preparation. <br><br>We
+    built an engine that transforms a spreadsheet of multiple-choice questions into
+    a beautiful, singing-and-dancing test-preparation app for the iPhone.<br><br>Then
+    we went ahead and launched <a href="https://apps.apple.com/us/developer/dripl/id1512488885"
+    title="" target="_blank">6 apps to the App Store</a>.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2020/12/24/frame-14.png"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
