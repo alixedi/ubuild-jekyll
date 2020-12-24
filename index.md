@@ -3,6 +3,9 @@ layout: blocks
 title: Dripl
 date: 2017-11-22 23:00:00 +0000
 page_sections:
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2020/12/24/logo.png"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
