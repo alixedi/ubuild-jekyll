@@ -10,7 +10,7 @@ page_sections:
     link_text: Weekly updates
   - link: ''
     link_text: ''
-  logo: "/uploads/2020/12/24/logo-1.png"
+  logo: "/uploads/2020/12/24/dripl.svg"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
