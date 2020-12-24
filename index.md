@@ -13,7 +13,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: Read our weekly progress updates
   image:
-    image: "/uploads/2020/12/24/anna-kurguzina-rfgjkkotfo4-unsplash.jpg"
+    image: "/uploads/2020/12/24/hot-air-balloon.png"
     alt_text: Product Shot
   background_image: ''
 - template: content-feature
