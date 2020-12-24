@@ -39,7 +39,8 @@ page_sections:
     the UK are test-preparation apps. <br><br>We have built a software that transforms
     spreadsheets containing question banks into beautiful, singing-and-dancing test-preparation
     apps for the iPhone. At the touch of a button.<br><br>We have used this software
-    to ship 6 apps to the App Store.</p>"
+    to ship 6 apps to the App Store. Shipping the last 4 apps took us less than a
+    month.</p>"
   headline: Un-startup
 - template: signup-bar
   block: cta-bar
