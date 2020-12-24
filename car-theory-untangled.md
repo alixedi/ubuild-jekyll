@@ -7,14 +7,14 @@ page_sections:
   block: hero-2
   background_image: ''
   image:
-    image: ''
+    image: "/uploads/2020/12/24/car-home.png"
     alt_text: ''
   headline: Car Theory Untangled
   content: Pass first time. Updated for 2020.
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: https://apps.apple.com/us/app/car-theory-test-untangled/id1534706484
+    button_text: Download now and pass first time.
 menu:
   main:
     weight: 2
