@@ -37,8 +37,8 @@ page_sections:
     plain-old Hazard Perception either. Introducing our smart HazardGuide that will
     show you exactly how you will be scored in the actual test.
   media:
-    image: "/uploads/2020/12/24/car-home.png"
-    alt_text: ''
+    image: "/uploads/2020/12/24/hazard-guide.png"
+    alt_text: hazard guide
   slug: ''
 menu:
   main:
