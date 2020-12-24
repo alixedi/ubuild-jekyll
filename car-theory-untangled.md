@@ -10,7 +10,7 @@ page_sections:
     image: "/uploads/2020/12/24/car-home.png"
     alt_text: ''
   headline: Car Theory Untangled
-  content: Download the app. Close the rings. Pass the test.
+  content: "<strong>Download the app. Close the rings. Pass the test.</strong>"
   cta:
     enabled: true
     url: https://apps.apple.com/us/app/car-theory-test-untangled/id1534706484
