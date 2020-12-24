@@ -6,7 +6,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>Dripl</strong><br>Un-startup / Consultancy"
+  headline: "<strong>Dripl</strong>"
   content: "<strong>Experiments in building a customer-funded business in public</strong>"
   cta:
     enabled: true
