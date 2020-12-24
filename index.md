@@ -33,6 +33,14 @@ page_sections:
   media:
     image: "/uploads/2020/12/24/pic02-1.jpg"
     alt_text: Ainy & Ali
+- template: detail-content
+  block: text-1
+  content: "<p><strong>3 out of 20</strong> best-selling apps on the App Store in
+    the UK are test-preparation apps. <br><br>We have built a software that transforms
+    spreadsheets containing question banks into beautiful, singing-and-dancing test-preparation
+    apps for the iPhone. At the touch of a button.<br><br>We have used this software
+    to ship 6 apps to the App Store.</p>"
+  headline: Un-startup
 - template: signup-bar
   block: cta-bar
   content: We are building Dripl in public. If you want to stay up to date with our
