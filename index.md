@@ -6,9 +6,11 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>Dripl</strong>"
-  content: Experiments in building a profitable internet business without raising
-    investment, chasing hockey-stick growth or working 100 hour weeks.
+  headline: <strong>Dripl<br></strong>An Un-Startup &amp; Consultanct by<span class="Apple-converted-space">
+    </span><a href="https://twitter.com/ainyxedi" target="_blank">AINY</a><span class="Apple-converted-space">
+    </span>&amp;<span class="Apple-converted-space"> </span><a href="https://twitter.com/alixedi"
+    target="_blank">ALI</a><br>
+  content: ''
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
