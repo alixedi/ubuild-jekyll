@@ -19,15 +19,20 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
-  media_alignment: Left
-  slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  media_alignment: Right
+  slug: story
+  headline: "<strong>The story, so far</strong>"
+  content: We created Dripl because we wanted to find out if we could build a profitable
+    internet business together. Between us, we spent 20 years at startups. This means:<br><br><strong>Half
+    of Dripl is an un-startup.</strong><span class="Apple-converted-space"> <br></span>We
+    are building digital products but we are not seeking hockey stick growth, looking
+    for venture capital or working 100-hour weeks.<br><br><strong>Half of Dripl is
+    a consulting agency.</strong><span class="Apple-converted-space"> <br></span>We
+    advise clients on adopting Lean Startup principles in the enterprise. This helps
+    us fund the un-startup, but we are also very good at this.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2020/12/24/pic02.jpg"
+    alt_text: Us
 - template: content-feature
   block: feature-1
   media_alignment: Right
