@@ -35,7 +35,7 @@ page_sections:
     alt_text: Ainy & Ali
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   slug: unstartup
   headline: "<strong>Un-startup</strong>"
   content: <strong>5 out of the top 20</strong><span class="Apple-converted-space">
