@@ -3,18 +3,9 @@ layout: blocks
 title: Dripl
 date: 2017-11-22 23:00:00 +0000
 page_sections:
-- template: navigation-header
-  block: header-1
-  navigation:
-  - link: https://www.notion.so/dripluk/How-to-Unstartup-4f4ea12d2c8b4e97be3fce5667a08d17
-    link_text: Weekly updates
-  - link: ''
-    link_text: ''
-  logo: "/uploads/2020/12/24/dripl.svg"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>Un-startup <br></strong>/ʌnˈstɑːtʌp/"
   content: "<strong>We are building a sustainable, customer-funded business </strong>without
     raising investment, chasing hockey-stick growth or working 100 hour weeks"
   cta:
@@ -25,6 +16,9 @@ page_sections:
     image: "/uploads/2020/12/24/balloon.png"
     alt_text: Un-startup
   background_image: ''
+  headline: <strong>Dripl</strong><br>An un-startup &amp; consultancy by<span class="Apple-converted-space">
+    </span><a href="https://twitter.com/ainyxedi">A</a>iny<span class="Apple-converted-space">
+    </span>&amp;<span class="Apple-converted-space"> </span><a href="https://twitter.com/alixedi">Ali</a>
 - template: content-feature
   block: feature-1
   media_alignment: Left
