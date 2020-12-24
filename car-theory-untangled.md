@@ -26,6 +26,17 @@ page_sections:
     image: "/uploads/2020/12/24/car-home.png"
     alt_text: ''
   slug: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Simplicity is the key
+  content: It's right there in the name. Untangled means an app you can fire-up on
+    your commute, while waiting for your kettle to boil or while your partner is watching
+    Strictly (don't).<br><br>
+  media:
+    image: "/uploads/2020/12/24/car-home.png"
+    alt_text: ''
+  slug: ''
 menu:
   main:
     weight: 2
