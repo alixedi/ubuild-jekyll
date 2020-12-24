@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: car
+title: Car Theory Untangled
 date: 2020-12-24 00:00:00 +0000
 page_sections:
 - template: hero-banner-w-image
