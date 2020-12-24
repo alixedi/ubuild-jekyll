@@ -61,6 +61,9 @@ page_sections:
       you have learned. As you go through the material, questions will repeat until
       you get them right several times.
     slug: ''
+- template: simple-footer
+  block: footer-1
+  content: ''
 menu:
   main:
     weight: 2
