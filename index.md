@@ -16,7 +16,7 @@ page_sections:
   image:
     image: ''
     alt_text: Balloon
-  background_image: ''
+  background_image: "/uploads/2020/12/24/frame-15.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
