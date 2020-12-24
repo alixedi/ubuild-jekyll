@@ -15,6 +15,17 @@ page_sections:
     enabled: true
     url: https://apps.apple.com/us/app/car-theory-test-untangled/id1534706484
     button_text: Download now and pass first time.
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: We will tell you when you are ready
+  content: Get cracking with the practice and mock tests and keep an eye on the progress
+    rings on the home screen. When the rings are about to close, you are ready. Go
+    book that test.
+  media:
+    image: "/uploads/2020/12/24/car-home.png"
+    alt_text: ''
+  slug: ''
 menu:
   main:
     weight: 2
