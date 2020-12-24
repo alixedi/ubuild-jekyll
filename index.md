@@ -6,7 +6,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: <strong>Dripl<br></strong>An Un-Startup &amp; Consultanct by<span class="Apple-converted-space">
+  headline: <strong>Dripl<br></strong>An Un-Startup &amp; Consultancy by<span class="Apple-converted-space">
     </span><a href="https://twitter.com/ainyxedi" target="_blank">AINY</a><span class="Apple-converted-space">
     </span>&amp;<span class="Apple-converted-space"> </span><a href="https://twitter.com/alixedi"
     target="_blank">ALI</a><br>
