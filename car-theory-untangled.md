@@ -8,7 +8,7 @@ page_sections:
   background_image: ''
   image:
     image: "/uploads/2020/12/24/car-home.png"
-    alt_text: ''
+    alt_text: car-home
   headline: Car Theory Untangled
   content: "<strong>Download the app. Close the rings. Pass the test.</strong>"
   cta:
