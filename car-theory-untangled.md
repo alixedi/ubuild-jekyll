@@ -34,7 +34,7 @@ page_sections:
   headline: Hazard Perception included
   content: Or maybe you can convince your partner to watch Hazard Perception clips
     together? They are included in the app. No extra charges.<br><br>It's not just
-    plain-old Hazard Perception either. Introducing out smart HazardGuide that will
+    plain-old Hazard Perception either. Introducing our smart HazardGuide that will
     show you exactly how you will be scored in the actual test.
   media:
     image: "/uploads/2020/12/24/car-home.png"
