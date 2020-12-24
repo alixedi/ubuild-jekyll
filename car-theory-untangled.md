@@ -31,10 +31,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Simplicity is the key
-  content: It's right there in the name. Untangled means an app you can fire-up on
-    your commute, while waiting for your kettle to boil or while your partner is watching
-    Strictly (don't).<br><br>
+  headline: Hazard Perception included
+  content: Or maybe you can convince your partner to watch Hazard Perception clips
+    together? They are included in the app. No extra charges.<br><br>It's not just
+    plain-old Hazard Perception either. Introducing out smart HazardGuide that will
+    show you exactly how you will be scored in the actual test.
   media:
     image: "/uploads/2020/12/24/car-home.png"
     alt_text: ''
