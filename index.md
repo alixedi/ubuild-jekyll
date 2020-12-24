@@ -19,7 +19,7 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   slug: story
   headline: "<strong>The story, so far</strong>"
   content: We created Dripl because we wanted to find out if we could build a profitable
