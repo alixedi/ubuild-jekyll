@@ -40,6 +40,27 @@ page_sections:
     image: "/uploads/2020/12/24/hazard-guide.png"
     alt_text: hazard
   slug: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Doesn't cost a fiver
+    content: Talking about charges, why does every theory app costs a fiver? Well,
+      not any more. You can have our app for the grand price of a skinny latte. Buy
+      a celebrity bobblehead separately if you are into that. Or not?<br><br>
+    slug: ''
+  col_2:
+    headline: Licensed materials from the DVSA
+    content: The learning materials for our app are licensed from the DVSA. 700-odd
+      questions, 10 scenarios &amp; 34 hazard perception clips. From the people who
+      make the real test.
+    slug: ''
+  col_3:
+    headline: A sprinkle of Science
+    content: Learning 700 questions can be daunting. So we have build the app with
+      spaced repetition - the science that will ensure that you don't forget what
+      you have learned. As you go through the material, questions will repeat until
+      you get them right several times.
+    slug: ''
 menu:
   main:
     weight: 2
