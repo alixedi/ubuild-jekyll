@@ -7,8 +7,8 @@ page_sections:
   block: hero-2
   slug: features
   headline: Dripl<br><strong>Un-startup &amp; Consultancy</strong>
-  content: "<strong>Experiments in building a customer-funded internet business in
-    public</strong>"
+  content: "<strong>Experiments in building a sustainable, customer-funded internet
+    business in public</strong>"
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
