@@ -6,9 +6,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Dripl<br><strong>Un-startup &amp; Consultancy</strong>
-  content: "<strong>Experiments in building a sustainable, customer-funded internet
-    business so that we can quit our jobs</strong>"
+  headline: "<strong>Dripl</strong><br>Un-startup / Consultancy"
+  content: "<strong>Experiments in building a customer-funded business in public</strong>"
   cta:
     enabled: true
     url: https://www.notion.so/dripluk/How-to-Unstartup-4f4ea12d2c8b4e97be3fce5667a08d17
