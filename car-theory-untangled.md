@@ -10,7 +10,7 @@ page_sections:
     image: "/uploads/2020/12/24/car-home.png"
     alt_text: ''
   headline: Car Theory Untangled
-  content: Pass first time. Updated for 2020.
+  content: Download the app. Close the rings. Pass the test.
   cta:
     enabled: true
     url: https://apps.apple.com/us/app/car-theory-test-untangled/id1534706484
