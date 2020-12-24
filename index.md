@@ -30,7 +30,7 @@ page_sections:
     advise clients on adopting Lean Startup principles in the enterprise. This helps
     us fund the un-startup, but we are also very good at this.
   media:
-    image: "/uploads/2020/12/24/pic02.jpg"
+    image: "/uploads/2020/12/24/pic02-1.jpg"
     alt_text: Ainy & Ali
 - template: content-feature
   block: feature-1
