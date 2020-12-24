@@ -35,6 +35,6 @@ page_sections:
     alt_text: Ainy & Ali
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: Made with ❤︎ by Dripl
 
 ---
