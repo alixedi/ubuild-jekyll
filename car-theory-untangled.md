@@ -38,7 +38,7 @@ page_sections:
     show you exactly how you will be scored in the actual test.
   media:
     image: "/uploads/2020/12/24/hazard-guide.png"
-    alt_text: hazard guide
+    alt_text: hazard
   slug: ''
 menu:
   main:
