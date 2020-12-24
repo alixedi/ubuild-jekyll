@@ -3,9 +3,6 @@ layout: blocks
 title: Dripl
 date: 2017-11-22 23:00:00 +0000
 page_sections:
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2020/12/24/logo-1.png"
 - template: navigation-header
   block: header-1
   navigation:
@@ -53,6 +50,9 @@ page_sections:
     to ship 6 apps to the App Store. Shipping the last 4 apps took us less than a
     month.</p>"
   headline: Un-startup
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2020/12/24/logo-1.png"
 - template: signup-bar
   block: cta-bar
   content: We are building Dripl in public. If you want to stay up to date with our
