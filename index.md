@@ -34,6 +34,25 @@ page_sections:
   media:
     image: "/uploads/2020/12/24/pic02-1.jpg"
     alt_text: Ainy & Ali
+- template: 1-column-text
+  block: one-column-1
+  headline: Un-startup
+  content: About<span class="Apple-converted-space"> </span><strong>175,000</strong><span
+    class="Apple-converted-space"> </span>people take the<span class="Apple-converted-space">
+    </span><a href="https://en.wikipedia.org/wiki/Life_in_the_United_Kingdom_test">Life
+    in the UK test</a><span class="Apple-converted-space"> </span>every year to qualify
+    for residence. Ainy was one of them last year. She tried several apps on the App
+    Store to help her prepare for the test but didn't like any of them so we decided
+    to build an app she would love.<br><br>During research, we found that<span class="Apple-converted-space">
+    </span><strong>5 out of the top 20</strong><span class="Apple-converted-space">
+    </span>best-selling apps on the App Store were for test-preparation so we took
+    a step back &amp; built an engine that transforms a spreadsheet of multiple-choice
+    questions into a beautiful, singing-and-dancing test-preparation app for the iPhone.<br><br>We
+    are dogfooding the engine to build an app for the Life in the UK test. This will
+    be followed by more test-preparation apps until we feel we have something reproducible.
+    At this point, we might launch the engine as a<span class="Apple-converted-space">
+    </span><strong>no-code solution for building test-preparation apps.</strong>
+  slug: ''
 - template: detail-content
   block: text-1
   content: "<p><strong>3 out of 20</strong> best-selling apps on the App Store in
