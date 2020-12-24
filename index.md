@@ -8,7 +8,7 @@ page_sections:
   slug: features
   headline: Dripl<br><strong>Un-startup &amp; Consultancy</strong>
   content: "<strong>Experiments in building a sustainable, customer-funded internet
-    business so that we quit our jobs</strong>"
+    business so that we can quit our jobs</strong>"
   cta:
     enabled: true
     url: https://www.notion.so/dripluk/How-to-Unstartup-4f4ea12d2c8b4e97be3fce5667a08d17
