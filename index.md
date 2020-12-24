@@ -6,14 +6,13 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>Dripl<br></strong>Experiments in building a profitable internet
-    business without raising investment, chasing hockey-stick growth or working 100
-    hour weeks."
-  content: ''
+  headline: "<strong>Dripl</strong>"
+  content: Experiments in building a profitable internet business without raising
+    investment, chasing hockey-stick growth or working 100 hour weeks.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: Read our weekly blog
+    button_text: Read our weekly progress updates
   image:
     image: "/uploads/2020/12/24/anna-kurguzina-rfgjkkotfo4-unsplash.jpg"
     alt_text: Product Shot
