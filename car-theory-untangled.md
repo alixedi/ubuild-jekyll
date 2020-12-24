@@ -18,10 +18,12 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: We will tell you when you are ready
-  content: Get cracking with the practice and mock tests and keep an eye on the progress
-    rings on the home screen. When the rings are about to close, you are ready. Go
-    book that test.
+  headline: Simplicity is the key
+  content: It's right there in the name. Untangled means an app you can fire-up on
+    your commute, while waiting for your kettle to boil or while your partner is watching
+    Strictly (don't).<br><br>Get cracking with the practice and mock tests and keep
+    an eye on the progress rings on the home screen. When the rings are about to close,
+    you are ready. Go book that test.
   media:
     image: "/uploads/2020/12/24/car-home.png"
     alt_text: car home
