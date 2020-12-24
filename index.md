@@ -14,8 +14,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Dripl<br><strong>Un-startup</strong>
-  content: "<strong>Experiments in building a sustainable internet business </strong>without
+  headline: "<strong>Un-startup <br></strong>/ʌnˈstɑːtʌp/"
+  content: "<strong>We are building a sustainable, customer-funded business </strong>without
     raising investment, chasing hockey-stick growth or working 100 hour weeks"
   cta:
     enabled: true
