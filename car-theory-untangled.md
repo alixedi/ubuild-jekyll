@@ -43,7 +43,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: Doesn't cost a fiver
+    headline: Doesn't cost a fiver <i class="fas fa-user"></i>
     content: Talking about charges, why does every theory app costs a fiver? Well,
       not any more. You can have our app for the grand price of a skinny latte. Buy
       a celebrity bobblehead separately if you are into that. Or not?<br><br>
