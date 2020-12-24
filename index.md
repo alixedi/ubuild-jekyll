@@ -8,11 +8,11 @@ page_sections:
   slug: features
   headline: Dripl<br><strong>Un-startup &amp; Consultancy</strong>
   content: "<strong>Experiments in building a sustainable, customer-funded internet
-    business in public</strong>"
+    business so that we quit our jobs</strong>"
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: Read our weekly progress updates
+    button_text: ''
   image:
     image: "/uploads/2020/12/24/frame-15.png"
     alt_text: Un-startup
