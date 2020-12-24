@@ -15,7 +15,7 @@ page_sections:
     button_text: Read our weekly progress updates
   image:
     image: "/uploads/2020/12/24/frame-15.png"
-    alt_text: Balloon
+    alt_text: Un-startup
   background_image: ''
 - template: content-feature
   block: feature-1
