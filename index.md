@@ -33,6 +33,20 @@ page_sections:
   media:
     image: "/uploads/2020/12/24/pic02-1.jpg"
     alt_text: Ainy & Ali
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Un-startup
+    content: <strong>3 out of 20</strong><span class="Apple-converted-space"> </span>best-selling
+      apps on the App Store in the UK are test-preparation apps. <br><br>We have built
+      a software that transforms spreadsheets containing question banks into beautiful,
+      singing-and-dancing test-preparation apps for the iPhone. At the touch of a
+      button.<br><br>We have used this software to ship 6 apps to the App Store.
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by Dripl
