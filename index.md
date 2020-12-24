@@ -32,7 +32,7 @@ page_sections:
     us fund the un-startup, but we are also very good at this.
   media:
     image: "/uploads/2020/12/24/pic02.jpg"
-    alt_text: Us
+    alt_text: Ainy & Ali
 - template: content-feature
   block: feature-1
   media_alignment: Right
