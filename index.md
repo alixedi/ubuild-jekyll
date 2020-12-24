@@ -6,6 +6,14 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2020/12/24/logo-1.png"
+- template: navigation-header
+  block: header-1
+  navigation:
+  - link: https://www.notion.so/dripluk/How-to-Unstartup-4f4ea12d2c8b4e97be3fce5667a08d17
+    link_text: Weekly updates
+  - link: ''
+    link_text: ''
+  logo: ''
 - template: hero-banner-w-image
   block: hero-2
   slug: features
