@@ -6,9 +6,9 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  content: An un-startup &amp; consultancy <br>- by<span class="Apple-converted-space">
-    </span><a href="https://twitter.com/ainyxedi">Ainy</a><span class="Apple-converted-space">
-    </span>&amp;<span class="Apple-converted-space"> </span><a href="https://twitter.com/alixedi">Ali</a>
+  content: <br>- by<span class="Apple-converted-space"> </span><a href="https://twitter.com/ainyxedi">Ainy</a><span
+    class="Apple-converted-space"> </span>&amp;<span class="Apple-converted-space">
+    </span><a href="https://twitter.com/alixedi">Ali</a>
   cta:
     enabled: true
     url: https://www.notion.so/dripluk/How-to-Unstartup-4f4ea12d2c8b4e97be3fce5667a08d17
@@ -17,7 +17,7 @@ page_sections:
     image: "/uploads/2020/12/24/balloon.png"
     alt_text: Un-startup
   background_image: ''
-  headline: Dripl
+  headline: "<strong>Dripl</strong><br>Un-startup &amp; consultancy"
 - template: content-feature
   block: feature-1
   media_alignment: Left
