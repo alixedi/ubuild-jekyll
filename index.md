@@ -14,7 +14,7 @@ page_sections:
     url: https://www.notion.so/dripluk/How-to-Unstartup-4f4ea12d2c8b4e97be3fce5667a08d17
     button_text: Read our weekly progress updates
   image:
-    image: "/uploads/2020/12/24/frame-15.png"
+    image: "/uploads/2020/12/24/hot-air-balloon-2.png"
     alt_text: Un-startup
   background_image: ''
 - template: content-feature
