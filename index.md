@@ -6,12 +6,13 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>Dripl</strong>"
-  content: "<strong>Experiments in building a customer-funded business in public</strong>"
+  headline: Dripl<br><strong>Un-startup</strong>
+  content: "<strong>Experiments in building a sustainable internet business </strong>without
+    raising investment, chasing hockey-stick growth or working 100 hour weeks"
   cta:
     enabled: true
     url: https://www.notion.so/dripluk/How-to-Unstartup-4f4ea12d2c8b4e97be3fce5667a08d17
-    button_text: Read our weekly progress updates
+    button_text: We are building in public
   image:
     image: "/uploads/2020/12/24/balloon.png"
     alt_text: Un-startup
