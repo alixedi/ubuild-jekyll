@@ -1,7 +1,7 @@
 ---
 layout: blocks
-title: Car Theory Untangled
-date: 2020-12-24 00:00:00 +0000
+title: Driving Theory
+date: 2020-12-24T00:00:00.000+00:00
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
