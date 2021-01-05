@@ -7,7 +7,7 @@ page_sections:
   block: hero-2
   background_image: ''
   image:
-    image: "/uploads/2021/01/05/motorcycle.png"
+    image: ''
     alt_text: ''
   headline: "<strong>Install now<br>Close the Rings<br>Pass the test</strong>"
   content: Motorcycle Theory Untangled
