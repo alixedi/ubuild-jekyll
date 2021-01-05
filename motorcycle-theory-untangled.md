@@ -9,8 +9,8 @@ page_sections:
   image:
     image: "/uploads/2021/01/05/motorcycle.png"
     alt_text: ''
-  headline: Motorcycle Theory Untangled
-  content: Install the app. Close the Rings. Pass the test.
+  headline: "<strong>Install now. Close the Rings. Pass the test.</strong>"
+  content: Motorcycle Theory Untangled
   cta:
     enabled: false
     url: ''
