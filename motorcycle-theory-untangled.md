@@ -9,7 +9,7 @@ page_sections:
   image:
     image: "/uploads/2021/01/05/motorcycle.png"
     alt_text: ''
-  headline: "<strong>Install now. <br>Close the Rings. <br>Pass the test.</strong>"
+  headline: "<strong>Install now<br>Close the Rings<br>Pass the test</strong>"
   content: Motorcycle Theory Untangled
   cta:
     enabled: false
