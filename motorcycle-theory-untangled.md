@@ -10,7 +10,7 @@ page_sections:
     image: ''
     alt_text: ''
   headline: "<strong>Install now<br>Close the Rings<br>Pass the test</strong>"
-  content: Motorcycle Theory Untangled
+  content: Motorcycle Theory Untangled<br><br><img src="/uploads/2021/01/05/appstore.png">
   cta:
     enabled: false
     url: ''
