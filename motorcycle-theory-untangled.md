@@ -51,7 +51,7 @@ page_sections:
   content: from a new block
   cta:
     url: alixedi.com
-    enabled: false
+    enabled: true
   background_image: ''
 
 ---
