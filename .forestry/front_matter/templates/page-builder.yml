@@ -33,6 +33,7 @@ fields:
   - 4-column-footer
   - untangled-hero-banner
 pages:
+- "./motorcycle-theory-untangled-xmas.md"
 - driving-theory.md
 - hello-world.md
 - index.md
