@@ -41,6 +41,10 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 published: false
 
 ---
