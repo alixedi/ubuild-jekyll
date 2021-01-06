@@ -34,5 +34,6 @@ fields:
   - untangled-hero-banner
 pages:
 - driving-theory.md
+- hello-world.md
 - index.md
 - motorcycle-theory-untangled.md
